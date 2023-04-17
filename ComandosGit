@@ -27,13 +27,13 @@ git restore index.html # recuperar el archivo, si ya existe lo pone en la versio
 
 git add . # añadir todas los archivos de ese directorio
 
-git remote add origin git@github.com:JAndresMenchaca/curso-git.git # establecer el origen del servidor remoto, para subir el proyecto al repositorio de Github
+git remote add origin git@github.com:SamLee212/curso-git.git # establecer el origen del servidor remoto, para subir el proyecto al repositorio de Github
 
 git remote -v # para ver el origen
 
 git push origin MASTER # poner la rama que queremos subir, si ponemos -u antes de origin se crea la nueva rama y se sube todo
 
-git clone git@github.com:JAndresMenchaca/curso-git.git # descargar repositorio
+git clone git@github.com:SamLee212/curso-git.git # descargar repositorio
 ORDEN:
 
 1. git status
