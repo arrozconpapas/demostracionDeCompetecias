@@ -87,4 +87,4 @@ git tag # listado de tags
 git show v0.1.0 # nos muestra los detalles de la version 
 git push origin v0.1.0 # lo lleva a GitHub
 
-Curso Git Mastermind
+Curso Git Mastermind.
